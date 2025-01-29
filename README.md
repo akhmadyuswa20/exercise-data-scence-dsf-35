@@ -7,3 +7,9 @@ This dataset became a typical test case for many statistical classification tech
 ## Content
 The dataset contains a set of 150 records under 5 attributes - Petal Length, Petal Width, Sepal Length, Sepal width and Class(Species).
 
+## Project Goals
+The Iris classification project using the Iris flower data set used for multi-class classification Dataset has several important goals related to medical applications and machine learning. Here are some of the main goals:
+
+1. Building a breast tumors classification model using the Decision Tree Algorithm
+2. Analyze tumor characteristics with good accuracy
+3. Visualize data using the Decision Tree Algorithm with the model that has been created and with good accuracy
