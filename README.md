@@ -21,9 +21,7 @@ Kesimpulan dari klasifikasi iris menggunakan metode decision tree dapat dirangku
 2. Metode Decision Tree: Decision tree adalah algoritma pembelajaran mesin yang digunakan untuk klasifikasi dan regresi. Metode ini membangun model dalam bentuk pohon, di mana setiap node mewakili fitur, setiap cabang mewakili keputusan, dan setiap daun mewakili hasil klasifikasi.
 3. Proses Klasifikasi: Dalam klasifikasi iris, decision tree melakukan pemisahan data berdasarkan fitur-fitur yang ada untuk memaksimalkan akurasi klasifikasi. Proses ini melibatkan pemilihan fitur terbaik untuk membagi dataset pada setiap node, menggunakan kriteria seperti Gini impurity atau entropy.
 4. Hasil Klasifikasi: Model decision tree yang dibangun dapat mencapai tingkat akurasi yang tinggi dalam mengklasifikasikan spesies iris. Biasanya, Iris Setosa dapat dipisahkan dengan jelas dari dua spesies lainnya, sementara Iris Versicolor dan Iris Virginica mungkin memiliki tumpang tindih yang lebih besar.
-
-Keunggulan dan Keterbatasan: Keunggulan dari metode decision tree termasuk interpretabilitas yang tinggi dan kemudahan dalam visualisasi. Namun, model ini juga rentan terhadap overfitting, terutama jika pohon terlalu dalam.
-
-Aplikasi: Klasifikasi iris dengan decision tree dapat digunakan sebagai dasar untuk memahami teknik klasifikasi yang lebih kompleks dan dapat diterapkan dalam berbagai bidang, seperti botani, pertanian, dan pengenalan pola.
+5. Keunggulan dan Keterbatasan: Keunggulan dari metode decision tree termasuk interpretabilitas yang tinggi dan kemudahan dalam visualisasi. Namun, model ini juga rentan terhadap overfitting, terutama jika pohon terlalu dalam.
+6. Aplikasi: Klasifikasi iris dengan decision tree dapat digunakan sebagai dasar untuk memahami teknik klasifikasi yang lebih kompleks dan dapat diterapkan dalam berbagai bidang, seperti botani, pertanian, dan pengenalan pola.
 
 Secara keseluruhan, klasifikasi iris menggunakan metode decision tree menunjukkan efektivitas dalam memisahkan spesies berdasarkan fitur yang ada, dengan hasil yang dapat diinterpretasikan dengan baik.
